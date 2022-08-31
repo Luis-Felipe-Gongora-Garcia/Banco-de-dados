@@ -8,9 +8,9 @@
     },
     {
       "id": 5,
+      "nomeCompleto": "Felipe Gongora",
       "email": "felipe@gmail.com",
-      "cidadeId": "1",
-      "nomeCompleto": "Felipe Silva"
+      "cidadeId": "1"
     },
     {
       "id": 6,
