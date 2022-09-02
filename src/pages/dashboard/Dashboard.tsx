@@ -8,8 +8,6 @@ export const Dashboard = () => {
         <FerramentasDeDetalhe mostrarBotaoSalvarEFechar mostrarBotaoNovo />
       }
       titulo="Página Inicial"
-    >
-      Testando
-    </LayoutBaseDePagina>
+    ></LayoutBaseDePagina>
   );
 };

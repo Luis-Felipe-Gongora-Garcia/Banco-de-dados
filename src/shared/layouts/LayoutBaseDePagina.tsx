@@ -10,7 +10,7 @@ import { Box } from "@mui/system";
 import { useDrawerContext } from "../contexts";
 
 interface ILayoutBaseDePaginaProps {
-  children: React.ReactNode;
+  children?: React.ReactNode;
   titulo: string;
   barraDeFerramentas: React.ReactNode;
 }

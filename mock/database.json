@@ -2,92 +2,92 @@
   "pessoas": [
     {
       "id": 3,
+      "nomeCompleto": "Joana Silva",
       "email": "joana@gmail.com",
-      "cidadeId": "1",
-      "nomeCompleto": "Joana Silva"
+      "cidadeId": 1
     },
     {
       "id": 5,
       "nomeCompleto": "Felipe Gongora",
       "email": "felipe@gmail.com",
-      "cidadeId": "1"
+      "cidadeId": 1
     },
     {
       "id": 6,
+      "nomeCompleto": "Gomes Silva",
       "email": "gomes@gmail.com",
-      "cidadeId": "1",
-      "nomeCompleto": "Gomes Silva"
+      "cidadeId": 1
     },
     {
       "id": 7,
       "nomeCompleto": "Luis Gongora",
       "email": "luis@gmail.com",
-      "cidadeId": "1"
+      "cidadeId": 1
     },
     {
       "id": 8,
       "email": "amanda@gmail.com",
-      "cidadeId": "1",
+      "cidadeId": 1,
       "nomeCompleto": "Amanda Silva"
     },
     {
       "id": 9,
       "email": "zuleica@gmail.com",
-      "cidadeId": "1",
+      "cidadeId": 1,
       "nomeCompleto": "Zuleica Silva"
     },
     {
       "id": 10,
       "email": "geraldo@gmail.com",
-      "cidadeId": "1",
+      "cidadeId": 1,
       "nomeCompleto": "Geraldo Silva"
     },
     {
       "id": 11,
       "email": "breno@gmail.com",
-      "cidadeId": "1",
+      "cidadeId": 1,
       "nomeCompleto": "Breno Silva"
     },
     {
       "id": 12,
       "email": "viviani@gmail.com",
-      "cidadeId": "1",
+      "cidadeId": 1,
       "nomeCompleto": "Viviani Silva"
     },
     {
       "id": 13,
       "email": "eliane@gmail.com",
-      "cidadeId": "1",
+      "cidadeId": 1,
       "nomeCompleto": "Eliane Silva"
     },
     {
       "id": 14,
       "email": "mariana@gmail.com",
-      "cidadeId": "1",
+      "cidadeId": 1,
       "nomeCompleto": "Mariana Silva"
     },
     {
       "id": 15,
       "email": "noah@gmail.com",
-      "cidadeId": "1",
+      "cidadeId": 1,
       "nomeCompleto": "Noah Silva"
     },
     {
       "id": 16,
       "nomeCompleto": "José De Souza",
       "email": "jose@gmail.com",
-      "cidadeId": "1"
+      "cidadeId": 1
     },
     {
       "nomeCompleto": "Ana Silva",
       "email": "ana@gmail.com",
-      "cidadeId": "1",
+      "cidadeId": 1,
       "id": 17
     },
     {
       "nomeCompleto": "Jorge",
       "email": "jorge@gmail.com",
-      "cidadeId": "1",
+      "cidadeId": 1,
       "id": 18
     }
   ],
@@ -99,6 +99,10 @@
     {
       "nome": "Araçatuba",
       "id": 2
+    },
+    {
+      "nome": "Porto Alegre",
+      "id": 3
     }
   ]
 }
