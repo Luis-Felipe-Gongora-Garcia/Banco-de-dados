@@ -90,5 +90,15 @@
       "cidadeId": "1",
       "id": 18
     }
+  ],
+  "cidades": [
+    {
+      "nome": "Campinas",
+      "id": 1
+    },
+    {
+      "nome": "Araçatuba",
+      "id": 2
+    }
   ]
 }
